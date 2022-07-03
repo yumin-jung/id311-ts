@@ -1,0 +1,32 @@
+{
+  "name": "id311-team1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.8.0",
+    "@mui/material": "^5.8.1",
+    "axios": "^0.27.2",
+    "fs": "^0.0.1-security",
+    "gray-matter": "^4.0.3",
+    "next": "12.1.6",
+    "path": "^0.12.7",
+    "react": "18.1.0",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-dom": "^18.1.0",
+    "react-query": "^3.39.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "eslint": "8.16.0",
+    "eslint-config-next": "12.1.6",
+    "typescript": "^4.7.4"
+  }
+}
